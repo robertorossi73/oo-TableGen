@@ -1,2 +1,2 @@
 # oo-TableGen
-Generatore di dati in formato tabellare da utilizzare con OnlyOffice
+Generatore di dati casuali in formato tabellare da utilizzare con OnlyOffice
